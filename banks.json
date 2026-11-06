@@ -1,4 +1,9 @@
 {
+ "abbl": {
+  "name": "AB Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/abbl/symbol.png"
+ },
  "abhy": {
   "name": "Abhyudaya Co-operative Bank",
   "source": "ABHY.png",
@@ -13,6 +18,11 @@
   "name": "Abu Dhabi Commercial Bank",
   "source": "Abu Dhabi Commercial Bank.png",
   "path": "assets/logos/adcb/symbol.png"
+ },
+ "airp": {
+  "name": "Airtel Payments Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/airp/symbol.png"
  },
  "amcb": {
   "name": "Ahmedabad Mercantile Co-operative Bank",
@@ -139,6 +149,11 @@
   "source": "City Union Bank.png",
   "path": "assets/logos/ciub/symbol.png"
  },
+ "clbl": {
+  "name": "Capital Small Finance Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/clbl/symbol.png"
+ },
  "cnrb": {
   "name": "Canara Bank",
   "source": "Canara Bank.png",
@@ -173,6 +188,11 @@
   "name": "Catholic Syrian Bank",
   "source": "CSB Bank.png",
   "path": "assets/logos/csbk/symbol.png"
+ },
+ "ctcb": {
+  "name": "Chinatrust Commercial Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/ctcb/symbol.png"
  },
  "dbss": {
   "name": "Development Bank of Singapore",
@@ -234,6 +254,16 @@
   "source": "ESAF Small Finance Bank Ltd.png",
   "path": "assets/logos/esfb/symbol.png"
  },
+ "esmf": {
+  "name": "Esaf Small Finance Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/esmf/symbol.png"
+ },
+ "fdrl": {
+  "name": "Federal Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/fdrl/symbol.png"
+ },
  "fino": {
   "name": "Fino Payments Bank",
   "source": "FINO Payments Bank.png",
@@ -293,6 +323,11 @@
   "name": "Woori Bank",
   "source": "woori bank.png.png",
   "path": "assets/logos/hvbk/symbol.png"
+ },
+ "ibbk": {
+  "name": "PT Bank Maybank Indonesia TBK",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/ibbk/symbol.png"
  },
  "ibkl": {
   "name": "IDBI",
@@ -363,6 +398,11 @@
   "name": "Janata Sahakari Bank (Pune)",
   "source": "JSBP.png",
   "path": "assets/logos/jsbp/symbol.png"
+ },
+ "jsfb": {
+  "name": "Jana Small Finance Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/jsfb/symbol.png"
  },
  "kace": {
   "name": "Kangra Central Co-operative Bank",
@@ -439,6 +479,11 @@
   "source": "KUCB.webp",
   "path": "assets/logos/kucb/symbol.png"
  },
+ "kvbl": {
+  "name": "Karur Vysya Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/kvbl/symbol.png"
+ },
  "kvgb": {
   "name": "Karnataka Vikas Grameena Bank",
   "source": "KVGB.png",
@@ -479,10 +524,25 @@
   "source": "MSCI.png",
   "path": "assets/logos/msci/symbol.png"
  },
+ "mshq": {
+  "name": "Mashreq Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/mshq/symbol.png"
+ },
  "mubl": {
   "name": "Municipal Co-operative Bank",
   "source": "MUBL.avif",
   "path": "assets/logos/mubl/symbol.png"
+ },
+ "nbad": {
+  "name": "National Bank of Abu Dhabi PJSC",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/nbad/symbol.png"
+ },
+ "nesf": {
+  "name": "North East Small Finance Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/nesf/symbol.png"
  },
  "nmcb": {
   "name": "Nasik Merchants Co-operative Bank",
@@ -524,6 +584,11 @@
   "source": "Qatar National Bank.png",
   "path": "assets/logos/qnba/symbol.png"
  },
+ "rabo": {
+  "name": "Rabobank International",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/rabo/symbol.png"
+ },
  "ratn": {
   "name": "RBL Bank",
   "source": "RBL Bank.png",
@@ -544,6 +609,11 @@
   "source": "State Bank of India.png",
   "path": "assets/logos/sbin/symbol.png"
  },
+ "sbld": {
+  "name": "Sonali Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/sbld/symbol.png"
+ },
  "scbl": {
   "name": "Standard Chartered Bank",
   "source": "Standard Chartered Bank.png",
@@ -559,10 +629,20 @@
   "source": "Shinhan Bank.png",
   "path": "assets/logos/shbk/symbol.png"
  },
+ "sibl": {
+  "name": "South Indian Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/sibl/symbol.png"
+ },
  "smbc": {
   "name": "Sumitomo Mitsui Banking Corporation",
   "source": "Sumitomo Mitsui Banking Corporation.png",
   "path": "assets/logos/smbc/symbol.png"
+ },
+ "smcb": {
+  "name": "Shivalik Small Finance Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/smcb/symbol.png"
  },
  "soge": {
   "name": "Societe Generale",
@@ -573,6 +653,16 @@
   "name": "Surat People's Co-operative Bank",
   "source": "SPCB.jpeg",
   "path": "assets/logos/spcb/symbol.png"
+ },
+ "stcb": {
+  "name": "SBM Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/stcb/symbol.png"
+ },
+ "sury": {
+  "name": "Suryoday Small Finance Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/sury/symbol.png"
  },
  "tdcb": {
   "name": "Thane District Central Co-operative Bank",
@@ -619,6 +709,11 @@
   "source": "UJVN.jpeg",
   "path": "assets/logos/ujvn/symbol.png"
  },
+ "unba": {
+  "name": "Unity Small finance Bank Limited",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/unba/symbol.png"
+ },
  "uovb": {
   "name": "United Overseas Bank",
   "source": "United Overseas Bank.png",
@@ -643,6 +738,11 @@
   "name": "Axis Bank",
   "source": "Axis bank.png",
   "path": "assets/logos/utib/symbol.png"
+ },
+ "utks": {
+  "name": "Utkarsh Small Finance Bank",
+  "source": "praveenpuglia/indian-banks symbol.svg (rendered 256px)",
+  "path": "assets/logos/utks/symbol.png"
  },
  "uucb": {
   "name": "Udaipur Urban Co-operative Bank",

@@ -24,12 +24,18 @@ Point the app at a tag, never `main`, so logo changes ship only on purpose.
 ## Source and license
 
 - Logo files: nkscoder/indian-banks (MIT), converted to PNG (at most 256 px). See LICENSE and LICENSE-nkscoder.
+- 20 more (v1.1.0): rendered from praveenpuglia/indian-banks SVGs (no license; see "Added in v1.1.0").
 - Bank names / IFSC codes: razorpay/ifsc (MIT).
 - Logos are the banks' trademarks, used only to identify the bank.
 
-## Missing
+## Added in v1.1.0
 
-- `fdrl` Federal Bank: not in the source set. Add an official logo as `assets/logos/fdrl/symbol.png`.
+20 banks not in the nkscoder set were rendered (256 px PNG) from praveenpuglia/indian-banks' `symbol.svg`:
+`abbl airp clbl ctcb esmf fdrl ibbk jsfb kvbl mshq nbad nesf rabo sbld sibl smcb stcb sury unba utks`
+(incl. Federal Bank `fdrl`, Karur Vysya `kvbl`, South Indian `sibl`, Jana SFB `jsfb`, Utkarsh SFB `utks`).
+
+Note: praveenpuglia/indian-banks has **no license file**, so these 20 files come without an explicit reuse
+grant (`banks.json` marks their source). Replace them with the banks' official logos when possible.
 
 Images are at most 256 px; many are 96x96. Replace any that look soft with the bank's official SVG/PNG
 (`symbol.svg` is also picked up by the app first).
